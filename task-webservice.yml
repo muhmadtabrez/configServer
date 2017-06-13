@@ -10,7 +10,7 @@ eureka:
 authserver:
     hostname: localhost
     port: 8080
-    contextPath: cloudfoundry-identity-uaa-4.3.0
+    contextPath: uaa
 
 # Note that the "/user" endpoint needs to provide the principle of the logged in user (/me endpoint)
 spring:
